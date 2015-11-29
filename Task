@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.contain{
+    width: 375px;
+    height: 375px;
+    background: #ffffff;
+    margin:200px 200px 200px 200px;
+    overflow: hidden;//定义内容溢出的情况
+}
+.div1{
+    float: left;
+    width: 118px;
+    height: 118px;
+    border-radius: 7px;
+    background: #ff8772;
+    margin: 3px;
+    position: relative;
+}
